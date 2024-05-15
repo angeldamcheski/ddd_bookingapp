@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>mk.ukim.finki.emt</groupId>
-    <artifactId>reservation</artifactId>
+    <artifactId>reservation-user</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>reservation</name>
     <description>reservation</description>

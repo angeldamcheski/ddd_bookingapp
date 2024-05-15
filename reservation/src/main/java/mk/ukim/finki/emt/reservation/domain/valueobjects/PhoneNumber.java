@@ -1,4 +1,4 @@
-package mk.ukim.finki.emt.booking_user.domain.valueobjects;
+package mk.ukim.finki.emt.reservation.domain.valueobjects;
 
 import jakarta.persistence.Embeddable;
 import lombok.Getter;

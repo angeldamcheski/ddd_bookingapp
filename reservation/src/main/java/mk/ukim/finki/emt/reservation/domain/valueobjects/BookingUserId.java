@@ -1,4 +1,4 @@
-package mk.ukim.finki.emt.booking_user.domain.models;
+package mk.ukim.finki.emt.reservation.domain.valueobjects;
 
 import mk.ukim.finki.emt.sharedkernel.domain.base.DomainObjectId;
 

@@ -1,8 +1,7 @@
-package mk.ukim.finki.emt.booking_user.domain.models;
+package mk.ukim.finki.emt.reservation.domain.valueobjects;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
-import mk.ukim.finki.emt.booking_user.domain.valueobjects.PhoneNumber;
 import mk.ukim.finki.emt.sharedkernel.domain.base.AbstractEntity;
 
 @Entity
